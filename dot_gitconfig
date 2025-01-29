@@ -1,0 +1,10 @@
+[user]
+	name = Mani Soundararajan
+	email = root@msound.net
+	signingkey = 7286FF181965E29B
+[core]
+	editor = vim
+[init]
+	defaultbranch = main
+[commit]
+	gpgsign = true

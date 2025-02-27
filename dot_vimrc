@@ -1,0 +1,5 @@
+syntax on
+set number
+set nowrap
+set hlsearch
+set listchars=space:·,tab:»-,eol:⏎,trail:·,extends:>,precedes:<

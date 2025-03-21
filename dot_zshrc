@@ -70,7 +70,7 @@ ZSH_CUSTOM=/home/msound/.local/share/oh-my-zsh-custom
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git podman podman-compose msound aws kubectl conda)
+plugins=(aws conda git helm kubectl msound podman podman-compose)
 
 source $ZSH/oh-my-zsh.sh
 
